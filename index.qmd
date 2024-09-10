@@ -1,5 +1,5 @@
 ---
-title: "Challenges for secondary analysis of existing large scale quantitative datasets for researching the aging-migration nexus"
+title: "Challenges for secondary analysis of existing large scale quantitative datasets for researching older migrants"
 author: "Hategekimana V. & Ravazzini L."
 format: clean-revealjs
 bibliography: valencia.bib
@@ -7,32 +7,33 @@ nocite: |
   @*
 ---
 
+# Why older migrants?
+
 ## Introduction
 
 **Migration Studies**
 
--   Field continuously expanding with extensive data and advanced analytical methods.
--   Focus predominantly on working-age migrants.
+-   **Field continuously expanding** with extensive data and advanced analytical methods.
+-   Focus predominantly on **working-age migrants**.
 
 **Gap in Research**
 
--   Elderly migrants are an underrepresented group in migration studies.
--   Current research overlooks important dynamics specific to older age migration.
+-   **Elderly migrants** are an **underrepresented group** in migration studies.
+-   Current research **overlooks** important **dynamics specific to older** age migration.
 
 ## Why eldery migrants?
 
 **Changing Dynamics in Retirement**
 
--   Increased life expectancies and advancements in technology and transportation.
--   Greater opportunities for international mobility among retirees.
+-   **Increased life expectancies** and advancements in technology and **transportation**.
+    -   **Greater opportunities for international mobility among retirees**.
 
 **Implications of Mobility in Older Age**
 
--   Potential for more geographically dispersed family units.
--   Enhanced global connectivity and extensive travel opportunities.
--   Example: Retirees relocating internationally, such as from Switzerland.
+-   Potential for more **geographically dispersed** family units.
+-   Enhanced global **connectivity** and extensive travel opportunities.
 
-## Goal
+## Goal {.scrollable}
 
 ### Compare three datasets from Switzerland:
 
@@ -40,14 +41,16 @@ nocite: |
 2.  Transnational Ageing Survey (TAS)
 3.  TransAge
 
-### Six topics:
+### Seven topics:
 
 1.  Life course
 2.  Vulnerability
 3.  Integration
 4.  Mobility
 5.  Family
-6.  COVID-19
+6.  Transnationalism
+7.  Health
+8.  COVID-19
 
 ## Why Switzerland?
 
@@ -61,7 +64,7 @@ nocite: |
     -   22.5% aged 65 y/o and over in 2020 (OFS, 2023)
 -   **Availability of rich datasets**
     -   MMS / TAS / TransAge
-    -   Other longitudinal studies
+    -   Other longitudinal studies / Register
 
 ## Migration Mobility Survey (MMS) {.scrollable}
 
@@ -84,9 +87,6 @@ nocite: |
 
 ## Transnational Ageing Survey (TAS) {.scrollable}
 
--   **Overview of Retiree Mobility and Surveys:**
-    -   **Context:** Retirement years are increasingly dynamic due to longer life expectancies and technological and transportation advancements.
-    -   **Impact:** Greater international mobility for retirees leads to dispersed family units and deeper global community connections.
 -   **Transnational-Ageing Surveys by NCCR – on the move:**
     -   **Purpose:** To gather data to improve the quality of life for retirees, particularly those spending part of their year in Switzerland.
     -   **Participants:** Swiss and foreign nationals aged 55 and older.
@@ -133,9 +133,9 @@ nocite: |
 
 ## Limitation of using secondary datasets for studying older migrant population
 
-When studying older migrant populations using secondary data, there are several key limitations to be aware of. To address these limitations, researchers often need to complement secondary data analysis with primary data collection, including qualitative studies, to gain a more comprehensive understanding of older migrant populations.
+When studying older migrant populations using secondary data, there are several key limitations to be aware of. To address these limitations, researchers often need to complement secondary data analysis with **primary data collection, including qualitative studies**, to gain a more comprehensive understanding of older migrant populations.
 
-Main challenges:
+**Main challenges:**
 
 -   Methodological
 -   Ethical
@@ -193,60 +193,58 @@ Main challenges:
 
 #### 1. Obtaining informed consent:
 
--   Language barriers may make it difficult to fully explain the research and obtain truly informed consent.
--   Cultural differences in understanding concepts like research participation and consent.
--   Cognitive impairments in some older participants may impact their ability to provide informed consent.
+-   **Language barriers** may make it difficult to fully explain the research and obtain truly informed consent.
+-   **Cultural differences** in understanding concepts like research participation and consent.
+-   **Cognitive impairments** in some older participants may impact their ability to provide informed consent.
 
 ## Ethical challenges
 
 #### 2. Discussing sensitive topics:
 
--   Migration experiences, especially for refugees, may involve trauma that is difficult to discuss.
--   Cultural taboos around certain topics (e.g. mental health, family relationships) may make participants uncomfortable.
--   Researchers need to balance gathering important data with respecting participants' boundaries.
+-   **Migration experiences**, especially for refugees, may involve **trauma** that is difficult to discuss.
+-   **Cultural taboos** around certain topics (e.g. mental health, family relationships) may make participants **uncomfortable**.
+-   **Researchers need to balance gathering important data with respecting participants' boundaries**.
 
 ## Ethical challenges
 
 #### 3. Addressing the impact of COVID-19:
 
--   Older migrants are a high-risk group, requiring extra precautions for in-person research.
--   Shift to remote/online methods may exclude participants without technology access.
--   Pandemic-related stressors may impact participants' wellbeing and willingness to engage in research.
--   Need to consider how the pandemic context affects research questions and data interpretation.
+-   Older migrants are a **high-risk group**, requiring extra precautions for in-person research.
+-   Shift to **remote/online methods** may **exclude participants** without technology access/litteracy.
+-   Pandemic-related stressors may impact participants' wellbeing and **willingness to engage in research.**
+-   **Need to consider how the pandemic context affects research questions and data interpretation.**
 
 ## Ethical challenges
 
 #### Additional ethical considerations:
 
--   Ensuring privacy and confidentiality, especially for undocumented migrants.
--   Providing appropriate compensation without being coercive.
--   Addressing power imbalances between researchers and participants.
--   Considering the impact of the research on the broader migrant community.
--   Ethical data sharing practices, given the sensitive nature of the information.
+-   Ensuring **privacy and confidentiality**, especially for undocumented migrants.
+-   Providing appropriate **compensation** without being coercive.
+-   Addressing **power imbalances** between researchers and participants.
+-   Considering the **impact of the research** on the broader migrant community.
+-   **Ethical data sharing** practices, given the sensitive nature of the information.
 
 ## Data Limitations in Older Migrant Research
 
--   Lack of Comprehensive Age-Disaggregated Data
+-   Lack of comprehensive **age-disaggregated data**
 -   Question adapted to the elderly population
     -   Life course
     -   Vulnerability
     -   Integration
     -   Mobility
     -   Family
-    -   Health / COVID-19
+    -   Transnationalism
+    -   Health
+    -   COVID-19
 
-## What have been done in the literatur {.scrollable}
+## What have been done in the literatur? {.scrollable}
 
 1.  **Use of mixed-method designs**
     -   Qualitative and Quantitative
 2.  **Careful consideration of age thresholds**
     -   50 or 55 as the cutoff point for "older" migrants, may experience issues earlier
-3.  **Attention to migrant generation**
-    -   First-generation migrants or other
-4.  **Collaborative approaches**
+3.  **Collaborative approaches**
     -   Data sharing and binding
-5.  **Efforts to improve data collection**
-    -   Age-disaggregated data collection across countries and regions
 
 ## Criteria for Datasets (1)
 
@@ -311,12 +309,11 @@ Main challenges:
 -   Collect research in the field of older migration that use these datasets
 -   Discussion ways to improve them
 
-## References 
-
-::: {#refs}
-
-:::
-
 # Thank you for your attention!
 
 ### Questions?
+
+## References
+
+::: {#refs}
+:::
