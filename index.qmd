@@ -2,6 +2,9 @@
 title: "Challenges for secondary analysis of existing large scale quantitative datasets for researching the aging-migration nexus"
 author: "Hategekimana V. & Ravazzini L."
 format: clean-revealjs
+bibliography: valencia.bib
+nocite: |
+  @*
 ---
 
 ## Introduction
@@ -307,6 +310,12 @@ Main challenges:
 -   Analysing the datasets through this approach
 -   Collect research in the field of older migration that use these datasets
 -   Discussion ways to improve them
+
+## References 
+
+::: {#refs}
+
+:::
 
 # Thank you for your attention!
 
