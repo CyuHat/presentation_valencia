@@ -1,11 +1,16 @@
 ---
 title: "Challenges for secondary analysis of existing large scale quantitative datasets for researching older migrants"
-author: "Hategekimana V. & Ravazzini L."
+authors:
+  - "Hategekimana Vestin (University of Geneva)"
+  - "Ravazzini Laura (University of Neuchâtel)"
+subtitle: https://cyuhat.github.io/presentation_valencia/#/title-slide
 format: clean-revealjs
 bibliography: valencia.bib
 nocite: |
   @*
 ---
+
+# Analysis of 3 secondary datasets
 
 # Why older migrants?
 
@@ -69,6 +74,7 @@ nocite: |
 ## Migration Mobility Survey (MMS) {.scrollable}
 
 -   **Dataset Overview:** National Center of Competence in Research (NCCR) conducts the Migration and Mobility Survey (MMS) biennially to study migration flows and conditions of foreign residents in Switzerland.
+    - **Size:** ~7,000/wave
 -   **Survey Details:**
     -   Currently in its fourth wave.
     -   Targets immigrants aged 18+ at immigration and 24 to 64 at survey time.
@@ -90,6 +96,7 @@ nocite: |
 -   **Transnational-Ageing Surveys by NCCR – on the move:**
     -   **Purpose:** To gather data to improve the quality of life for retirees, particularly those spending part of their year in Switzerland.
     -   **Participants:** Swiss and foreign nationals aged 55 and older.
+    - **Size:** ~5,000/wave
     -   **Focus Areas:**
         -   Life in Switzerland.
         -   Past and current international movements.
@@ -106,7 +113,6 @@ nocite: |
         -   Started in November 2020.
         -   Focused on Swiss nationals aged 55+ residing overseas.
         -   Aimed to explore living conditions abroad.
-        -   Approximately 4,700 participants.
         -   Collaborated with the Federal Department of Foreign Affairs and the Federal Office of Constructions and Logistics.
 -   **Research Goals:**
     -   Enhance insights into new international mobility trends among retirees.
@@ -116,6 +122,7 @@ nocite: |
 
 -   **Dataset Overview: "Transnational Ageing Project: Post-Retirement Mobilities, Transnational Lifestyles and Care Configurations"**
     -   **Focus:** Older adults (aged 65 and above) from four groups: Swiss natives, Italian international migrants in Switzerland, Italian stayers in Italy, and internally mobile Italians.
+    -   **Size:** ~3,000 
 -   **Data Collection and Study Design:**
     -   **Research Institutes:** MIS Trend (Switzerland) and Demetra Opinioni (Italy).
     -   **Collection Methods:** Online questionnaires, paper questionnaires, telephone interviews, and face-to-face interactions.
@@ -140,6 +147,8 @@ When studying older migrant populations using secondary data, there are several 
 -   Methodological
 -   Ethical
 -   Data
+
+# Literatur
 
 ## Methodological Challenges
 
@@ -237,14 +246,7 @@ When studying older migrant populations using secondary data, there are several 
     -   Health
     -   COVID-19
 
-## What have been done in the literatur? {.scrollable}
-
-1.  **Use of mixed-method designs**
-    -   Qualitative and Quantitative
-2.  **Careful consideration of age thresholds**
-    -   50 or 55 as the cutoff point for "older" migrants, may experience issues earlier
-3.  **Collaborative approaches**
-    -   Data sharing and binding
+# Selected criteria
 
 ## Criteria for Datasets (1)
 
