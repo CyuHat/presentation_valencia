@@ -1,12 +1,17 @@
 ---
 title: "Challenges for secondary analysis of existing large scale quantitative datasets for researching older migrants"
 authors:
-  - "Hategekimana Vestin (University of Geneva)"
-  - "Ravazzini Laura (University of Neuchâtel)"
+  - name: "Hategekimana Vestin" 
+    affiliation: "University of Geneva"
+    email: "vestin.hategekimana@unige.ch"
+  - name: "Ravazzini Laura"
+    affiliation: "University of Neuchâtel"
+    email: "laura.ravazzini@unine.ch"
 subtitle: https://cyuhat.github.io/presentation_valencia/#/title-slide
 format: 
   clean-revealjs:
     transition: slide
+    logo: logo.png
 bibliography: valencia.bib
 nocite: |
   @*
@@ -150,14 +155,13 @@ When studying older migrant populations using secondary data, there are several 
 -   Ethical
 -   Data
 
-# Literatur
+# Literature
 
 ## Methodological Challenges
 
 #### 1. Defining the Population of Interest
 
 -   **Complexity:** Older migrants are a heterogeneous group, varying in age, origin, migration history, and legal status.
--   **Age Threshold:** Determining what constitutes "older" can be challenging and may vary across cultures.
 -   **Migration Status:** Deciding whether to include second-generation immigrants, return migrants, or those with dual citizenship.
 -   **Cultural Considerations:** Definitions of "older" may differ across cultures and affect self-identification.
 
@@ -248,9 +252,9 @@ When studying older migrant populations using secondary data, there are several 
     -   Health
     -   COVID-19
 
-# Selected criteria
+# Selected criterias
 
-## Criteria for Datasets (1)
+## Criterias for Datasets (1)
 
 **Categories:**
 
