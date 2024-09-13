@@ -4,7 +4,9 @@ authors:
   - "Hategekimana Vestin (University of Geneva)"
   - "Ravazzini Laura (University of Neuchâtel)"
 subtitle: https://cyuhat.github.io/presentation_valencia/#/title-slide
-format: clean-revealjs
+format: 
+  clean-revealjs:
+    transition: slide
 bibliography: valencia.bib
 nocite: |
   @*
