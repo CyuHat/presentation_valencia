@@ -1,7 +1,7 @@
 ---
 title: "The possibilities and limitations for secondary analysis of existing large scale quantitative data sets for researching the aging-migration nexus"
 author: "Hategekimana V. & Ravazzini L."
-format: clean-revealjs
+format: docx
 editor: visual
 ---
 
@@ -17,7 +17,7 @@ The possibilities and limitations for secondary analysis of existing large scale
 
 #### Title
 
-Comparaison de 3 jeux de données pour l'analyse de la population migrante agée.
+Comparison of 3 datasets for the analysis of the elderly migrant population.
 
 ## Introduction
 
@@ -75,27 +75,15 @@ The main challenges when conducting research on older migrants include defining 
 
 ## Methodological Challenges in Studying Older Migrants
 
-\[1\] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ \[2\] https://www.migrationdataportal.org/themes/older-persons-and-migration \[3\] https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf \[4\] https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18 \[5\] https://journals.openedition.org/cybergeo/33224?lang=es \[6\] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11102009/ \[7\] https://www.tandfonline.com/doi/full/10.1080/13557858.2014.961410
-
 ### 1. Defining the Population of Interest
-
-\[1\] - **Complexity:** Older migrants are a heterogeneous group, varying in age, origin, migration history, and legal status. - **Age Threshold:** Determining what constitutes "older" can be challenging and may vary across cultures. - **Migration Status:** Deciding whether to include second-generation immigrants, return migrants, or those with dual citizenship. - **Cultural Considerations:** Definitions of "older" may differ across cultures and affect self-identification.
 
 ### 2. Sampling Difficulties
 
-\[1\] - **Hard-to-Reach Populations:** Older migrants may be socially isolated or live in areas not easily accessible to researchers. - **Language Barriers:** May limit participation in surveys or interviews. - **Trust Issues:** Some migrants may be hesitant to participate due to fears related to their legal status or past experiences. - **Representativeness:** Ensuring the sample accurately reflects the diversity within the older migrant population. - **Sample Size:** Obtaining a large enough sample for statistical significance, especially for subgroups.
-
 ### 3. Selection of Appropriate Questions
-
-\[1\] - **Cultural Sensitivity:** Ensuring questions are culturally appropriate and not offensive. - **Relevance:** Developing questions that capture the unique experiences of older migrants. - **Comparability:** Balancing the need for context-specific questions with the ability to compare across different migrant groups or with non-migrant populations. - **Comprehension:** Ensuring questions are understood similarly across different linguistic and cultural groups.
 
 ### 4. Ensuring Validity of Answers
 
-\[1\] - **Translation Issues:** Ensuring accurate translation of questions and responses across multiple languages. - **Social Desirability Bias:** Respondents may answer in ways they think are socially acceptable rather than truthfully. - **Recall Bias:** Older participants may have difficulty accurately remembering past events or experiences. - **Proxy Responses:** When family members answer on behalf of older migrants, potentially introducing bias. - **Cultural Interpretation:** Different cultures may interpret questions or concepts differently.
-
 ### 5. Composition of the Research Team
-
-\[1\] - **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
 
 ### Strategies to Address These Challenges
 
@@ -139,68 +127,184 @@ By carefully considering and addressing these methodological challenges, researc
 
 Researchers are encouraged to carefully consider these ethical challenges throughout the research process, from study design to dissemination of results. Engaging with the migrant community and seeking guidance from ethics boards can help navigate these complex issues.
 
-Citations: \[1\] https://academic.oup.com/gerontologist/article/62/6/809/6550651 \[2\] https://pubmed.ncbi.nlm.nih.gov/35303092/ \[3\] https://academic.oup.com/gerontologist/article-abstract/62/6/809/6550651 \[4\] https://link.springer.com/article/10.1007/s13753-024-00549-7 \[5\] https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf \[6\] https://mediatum.ub.tum.de/doc/1713045/1713045.pdf \[7\] https://www.migrationdataportal.org/themes/older-persons-and-migration \[8\] https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1283891/full
+[^1]: https://academic.oup.com/gerontologist/article/62/6/809/6550651 
+[^2]: https://pubmed.ncbi.nlm.nih.gov/35303092/ 
+[^3]: https://academic.oup.com/gerontologist/article-abstract/62/6/809/6550651 
+[^4]: https://link.springer.com/article/10.1007/s13753-024-00549-7 
+[^5]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf 
+[^6]: https://mediatum.ub.tum.de/doc/1713045/1713045.pdf 
+[^7]: https://www.migrationdataportal.org/themes/older-persons-and-migration 
+[^8]: https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1283891/full
+
+
+- **Cultural Competence:**[1] Ensuring researchers understand the cultural contexts of the populations they're studying. 
+- **Language Skills:** Having team members who speak the languages of the migrant groups being studied. 
+- **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. 
+- **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. 
+- **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^2]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^3]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf
+
+[^4]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18
+
+[^5]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^6]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11102009/
+
+[^7]: https://www.tandfonline.com/doi/full/10.1080/13557858.2014.961410
 
 ## Strategies to tackle these issues
 
 1.  Increased reporting and reflection on methodological decisions:
-    -   Researchers are providing more detailed accounts of their fieldwork decisions, how they tackled challenges, and the implications of their methodological choices\[1\]\[2\].
+    -   Researchers are providing more detailed accounts of their fieldwork decisions, how they tackled challenges, and the implications of their methodological choices [^8] [^9].
 2.  Careful consideration of definitions and sampling:
-    -   Clearly defining the target population, including age thresholds and migrant generation\[1\]\[2\].
-    -   Using age cutoffs of 50 or 55 to account for earlier onset of age-related issues in migrant populations\[1\]\[2\].
+    -   Clearly defining the target population, including age thresholds and migrant generation [^10] [^11].
+    -   Using age cutoffs of 50 or 55 to account for earlier onset of age-related issues in migrant populations [^12] [^13].
 3.  Improving data collection and analysis:
-    -   Using mixed-method designs to gain a more comprehensive understanding\[5\].
-    -   Adopting community-based participatory research approaches to involve older migrants in the research process\[5\].
+    -   Using mixed-method designs to gain a more comprehensive understanding [^14].
+    -   Adopting community-based participatory research approaches to involve older migrants in the research process [^15].
     -   Employing advanced statistical techniques to address sampling biases and small sample sizes.
 4.  Enhancing cultural sensitivity:
-    -   Ensuring cultural competence in the research team\[1\]\[2\].
-    -   Carefully considering the wording and cultural appropriateness of questions\[5\].
+    -   Ensuring cultural competence in the research team [^16] [^17].
+    -   Carefully considering the wording and cultural appropriateness of questions [^18].
 5.  Addressing ethical concerns:
     -   Paying special attention to obtaining informed consent, especially with language barriers and potential cognitive impairments.
     -   Carefully navigating discussions of sensitive topics, particularly for refugees or those with traumatic experiences.
 6.  Collaboration and data sharing:
-    -   Encouraging more collaboration between researchers in the field of older migrants\[1\]\[2\].
-    -   Sharing data despite potential methodological and ethical challenges to advance the field\[1\]\[2\].
+    -   Encouraging more collaboration between researchers in the field of older migrants [^19] [^20].
+    -   Sharing data despite potential methodological and ethical challenges to advance the field [^21] [^22].
 7.  Adapting to new challenges:
     -   Addressing the impact of COVID-19 on research methods and participant well-being.
 8.  Improving representation:
     -   Including researchers from migrant backgrounds on research teams to bring insider perspectives and enhance trust with participants.
 
+
+-   **Cultural Competence:**[^8] Ensuring researchers understand the cultural contexts of the populations they're studying.
+- **Language Skills:** Having team members who speak the languages of the migrant groups being studied.
+- **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective.
+- **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants.
+- **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^9]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+
+- **Cultural Competence:**[^10] Ensuring researchers understand the cultural contexts of the populations they're studying. 
+- **Language Skills:** Having team members who speak the languages of the migrant groups being studied.
+- **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective.
+- **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants.
+- **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^11]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+
+-   **Cultural Competence:**[^12] Ensuring researchers understand the cultural contexts of the populations they're studying.
+- **Language Skills:** Having team members who speak the languages of the migrant groups being studied.
+- **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective.
+- **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants.
+- **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^13]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^14]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^15]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^16]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^17]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^18]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^19]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^20]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^21]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^22]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
 These approaches aim to improve the quality, validity, and ethical standards of research on older migrants. However, the articles also note that significant gaps remain, particularly in studying irregular migrants and internally displaced older persons, indicating areas for future focus.
 
-Citations: \[1\] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ \[2\] https://academic.oup.com/gerontologist/article/62/6/809/6550651 \[3\] https://pubmed.ncbi.nlm.nih.gov/35303092/ \[4\] https://academic.oup.com/gerontologist/article-abstract/62/6/809/6550651 \[5\] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10737761/ \[6\] https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf \[7\] https://link.springer.com/article/10.1007/s13753-024-00549-7
+Citations: [^23]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ [^24]: https://academic.oup.com/gerontologist/article/62/6/809/6550651 [^25]: https://pubmed.ncbi.nlm.nih.gov/35303092/ [^26]: https://academic.oup.com/gerontologist/article-abstract/62/6/809/6550651 [^27]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10737761/ [^28]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf [^29]: https://link.springer.com/article/10.1007/s13753-024-00549-7
+
+[^23]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^24]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^25]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf
+
+[^26]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18
+
+[^27]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^28]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11102009/
+
+[^29]: https://www.tandfonline.com/doi/full/10.1080/13557858.2014.961410
 
 ## Data Limitations in Older Migrant Research
 
 ### 1. Incomplete Data for Certain Regions
 
--   Many countries in Africa, the Middle East, Caribbean, and Pacific have limited or no capacity to collect and disaggregate data by age\[1\].
--   This results in millions of older persons being excluded from internationally comparable datasets\[1\].
+-   Many countries in Africa, the Middle East, Caribbean, and Pacific have limited or no capacity to collect and disaggregate data by age [^30]:.
+-   This results in millions of older persons being excluded from internationally comparable datasets [^31]:.
 -   The lack of comprehensive data from these regions creates significant gaps in our understanding of global migration patterns among older populations.
+
+[^30]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^31]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
 
 ### 2. Lack of Comprehensive Age-Disaggregated Data
 
 -   While some age-disaggregated data exists, it's often not detailed enough for in-depth analysis of older migrant populations.
--   UN DESA provides data on migrants aged 65 or older, with subcategories of 65-69, 70-74, and 75+, but more granular age categories would be beneficial\[1\].
+-   UN DESA provides data on migrants aged 65 or older, with subcategories of 65-69, 70-74, and 75+, but more granular age categories would be beneficial [^32]:.
 -   The lack of detailed age data makes it challenging to understand the diverse needs and experiences of different age groups within the older migrant population.
+
+[^32]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
 
 ### 3. Limited Information on Older Irregular Migrants
 
--   Data on older irregular migrants are generally not available\[1\].
+-   Data on older irregular migrants are generally not available [^33]:.
 -   This gap in information makes it difficult to understand the unique challenges and vulnerabilities faced by this group.
 -   The lack of data can lead to these individuals being overlooked in policy and support services.
 
+[^33]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
 ### 4. Insufficient Research on South-South Migration and Social Costs
 
--   There is relatively little research on migration and aging in the context of south-south migration\[1\].
--   The social costs for older persons left behind by migrants are not well understood or documented\[1\].
+-   There is relatively little research on migration and aging in the context of south-south migration [^34]:.
+-   The social costs for older persons left behind by migrants are not well understood or documented [^35]:.
 -   This lack of research limits our understanding of the global impact of migration on older populations, particularly in developing countries.
+
+[^34]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^35]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
 
 ### Additional Challenges
 
--   Data collection methods in shelters for internally displaced persons (IDPs) often fail to adequately capture age-specific information\[1\].
--   The needs of older IDPs, which differ in terms of medical treatment, psycho-social support, and nutrition, are not well documented\[1\].
--   There's limited information on the movement of internally displaced older persons from rural to urban settings\[1\].
+-   Data collection methods in shelters for internally displaced persons (IDPs) often fail to adequately capture age-specific information [^36]:.
+-   The needs of older IDPs, which differ in terms of medical treatment, psycho-social support, and nutrition, are not well documented [^37]:.
+-   There's limited information on the movement of internally displaced older persons from rural to urban settings [^38]:.
+
+[^36]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^37]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^38]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
 
 To address these limitations, researchers and policymakers need to:
 
@@ -212,35 +316,107 @@ To address these limitations, researchers and policymakers need to:
 
 By addressing these data limitations, we can gain a more complete and nuanced understanding of older migrants' experiences and needs, leading to more effective policies and support systems.
 
-Citations: \[1\] https://www.migrationdataportal.org/themes/older-persons-and-migration \[2\] https://www.migrationdataportal.org/themes/labour-migration \[3\] https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf \[4\] https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18 \[5\] https://publications.iom.int/system/files/pdf/pub2023-047-l-world-migration-report-2024_0.pdf \[6\] https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1283891/full \[7\] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ \[8\] https://academic.oup.com/gerontologist/article/62/6/809/6550651
+Citations: [^39]: https://www.migrationdataportal.org/themes/older-persons-and-migration [^40]: https://www.migrationdataportal.org/themes/labour-migration [^41]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf [^42]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18 [^43]: https://publications.iom.int/system/files/pdf/pub2023-047-l-world-migration-report-2024_0.pdf [^44]: https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1283891/full [^45]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ \[\^8\]: https://academic.oup.com/gerontologist/article/62/6/809/6550651
+
+[^39]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^40]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^41]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf
+
+[^42]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18
+
+[^43]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^44]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11102009/
+
+[^45]: https://www.tandfonline.com/doi/full/10.1080/13557858.2014.961410
 
 ## What have been done in the literatur
 
 Based on the search results, several approaches have been taken to address the methodological challenges in studying older migrants:
 
-1.  Increased reporting and reflection on fieldwork decisions: Researchers are providing more detailed accounts of how they tackled challenges and the implications of their methodological choices\[1\]\[2\].
+1.  Increased reporting and reflection on fieldwork decisions: Researchers are providing more detailed accounts of how they tackled challenges and the implications of their methodological choices [^46]: [^47]:.
 
-2.  Use of mixed-method designs: Combining quantitative and qualitative approaches to gain a more comprehensive understanding of older migrants' experiences\[1\]\[2\].
+2.  Use of mixed-method designs: Combining quantitative and qualitative approaches to gain a more comprehensive understanding of older migrants' experiences [^48]: [^49]:.
 
-3.  Adoption of community-based participatory research: Involving older migrants in the research process to improve relevance and cultural sensitivity\[1\]\[2\].
+3.  Adoption of community-based participatory research: Involving older migrants in the research process to improve relevance and cultural sensitivity [^50]: [^51]:.
 
-4.  Careful consideration of age thresholds: Many studies use 50 or 55 as the cutoff point for "older" migrants, recognizing that migrants may experience age-related issues earlier than non-migrants\[1\]\[2\].
+4.  Careful consideration of age thresholds: Many studies use 50 or 55 as the cutoff point for "older" migrants, recognizing that migrants may experience age-related issues earlier than non-migrants [^52]: [^53]:.
 
-5.  Attention to migrant generation: Researchers are clarifying whether they include only first-generation migrants or also those who arrived as children (1.5 generation)\[1\]\[2\].
+5.  Attention to migrant generation: Researchers are clarifying whether they include only first-generation migrants or also those who arrived as children (1.5 generation) [^54]: [^55]:.
 
-6.  Collaborative approaches: There's a growing emphasis on collaboration between researchers, including data sharing, to overcome limitations in individual studies\[1\]\[2\].
+6.  Collaborative approaches: There's a growing emphasis on collaboration between researchers, including data sharing, to overcome limitations in individual studies [^56]: [^57]:.
 
-7.  Ethnographic studies: Encouraged to build evidence on older irregular migrants, who are often excluded from official statistics\[4\].
+7.  Ethnographic studies: Encouraged to build evidence on older irregular migrants, who are often excluded from official statistics [^58]:.
 
-8.  Prioritizing migrant voices: Researchers are adopting methodologies that engage directly with older migrants, considering factors like age, gender, language, mobility, and disabilities\[3\].
+8.  Prioritizing migrant voices: Researchers are adopting methodologies that engage directly with older migrants, considering factors like age, gender, language, mobility, and disabilities [^59]:.
 
-9.  Recognition of older migrants as research collaborators: Some studies are positioning older migrants as experts in understanding their own needs and challenges, rather than just as research subjects\[3\].
+9.  Recognition of older migrants as research collaborators: Some studies are positioning older migrants as experts in understanding their own needs and challenges, rather than just as research subjects [^60]:.
 
-10. Efforts to improve data collection: There's a push for more comprehensive and consistent age-disaggregated data collection across countries and regions\[4\].
+10. Efforts to improve data collection: There's a push for more comprehensive and consistent age-disaggregated data collection across countries and regions [^61]:.
 
-Despite these efforts, significant gaps remain. There's still limited primary empirical research specifically exploring the roles and contributions of older migrants in post-migration recovery\[3\]. Additionally, data on older irregular migrants and internally displaced older persons remain scarce\[4\]. The research community continues to call for more attention to these understudied areas and for improved data collection methods to better capture the diverse experiences of older migrants.
+[^46]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
 
-Citations: \[1\] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ \[2\] https://academic.oup.com/gerontologist/article/62/6/809/6550651 \[3\] https://link.springer.com/article/10.1007/s13753-024-00549-7 \[4\] https://www.migrationdataportal.org/themes/older-persons-and-migration \[5\] https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf \[6\] https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-19165-7 \[7\] https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18 \[8\] https://journals.openedition.org/cybergeo/33224?lang=es
+[^47]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^48]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^49]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^50]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^51]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^52]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^53]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^54]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^55]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^56]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^57]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^58]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18
+
+[^59]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf
+
+[^60]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf
+
+[^61]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18
+
+Despite these efforts, significant gaps remain. There's still limited primary empirical research specifically exploring the roles and contributions of older migrants in post-migration recovery [^62]:. Additionally, data on older irregular migrants and internally displaced older persons remain scarce [^63]:. The research community continues to call for more attention to these understudied areas and for improved data collection methods to better capture the diverse experiences of older migrants.
+
+[^62]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf
+
+[^63]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18
+
+Citations: [^64]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ [^65]: https://academic.oup.com/gerontologist/article/62/6/809/6550651 [^66]: https://link.springer.com/article/10.1007/s13753-024-00549-7 [^67]: https://www.migrationdataportal.org/themes/older-persons-and-migration [^68]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf [^69]: https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-19165-7 [^70]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18 \[\^8\]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^64]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^65]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^66]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf
+
+[^67]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18
+
+[^68]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^69]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11102009/
+
+[^70]: https://www.tandfonline.com/doi/full/10.1080/13557858.2014.961410
 
 ## Criteria for Datasets (1)
 
@@ -260,8 +436,6 @@ To conduct proper analysis of older migrants, datasets should ideally include:
 -   Qualitative data: To supplement quantitative information and provide context
 -   Cultural and linguistic factors: To understand integration challenges
 -   Access to services: Information on healthcare, social services, and support systems
-
-+++
 
 Based on the challenges discussed earlier, here are the key criteria for a good dataset on older migrants:
 
@@ -306,7 +480,22 @@ Based on the challenges discussed earlier, here are the key criteria for a good 
 
 By meeting these criteria, a dataset would provide a more comprehensive and nuanced picture of older migrants, addressing many of the current limitations in the field and enabling more robust research and policy development.
 
-Citations: \[1\] https://www.migrationdataportal.org/themes/older-persons-and-migration \[2\] https://unece.org/DAM/pau/age/Policy_briefs/ECE-WG.1-24.pdf \[3\] https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1283891/full \[4\] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10737761/ \[5\] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ \[6\] https://academic.oup.com/gerontologist/article/62/6/809/6550651 \[7\] https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf \[8\] https://academic.oup.com/gerontologist/article-abstract/62/6/809/6550651
+Citations: [^71]: https://www.migrationdataportal.org/themes/older-persons-and-migration [^72]: https://unece.org/DAM/pau/age/Policy_briefs/ECE-WG.1-24.pdf [^73]: https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1283891/full [^74]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10737761/ [^75]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290876/ [^76]: https://academic.oup.com/gerontologist/article/62/6/809/6550651 [^77]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf \[\^8\]: https://academic.oup.com/gerontologist/article-abstract/62/6/809/6550651
+
+[^71]:
+    -   **Cultural Competence:** Ensuring researchers understand the cultural contexts of the populations they're studying. - **Language Skills:** Having team members who speak the languages of the migrant groups being studied. - **Interdisciplinary Approach:** Incorporating experts from various fields (e.g., gerontology, migration studies, public health) for a comprehensive perspective. - **Diversity:** Including researchers from migrant backgrounds to bring insider perspectives and enhance trust with participants. - **Training:** Providing specialized training for researchers on working with older migrant populations.
+
+[^72]: https://www.migrationdataportal.org/themes/older-persons-and-migration
+
+[^73]: https://migrant-integration.ec.europa.eu/sites/default/files/2011-09/docl_23076_15149428.pdf
+
+[^74]: https://link.springer.com/chapter/10.1007/978-3-031-16624-2_18
+
+[^75]: https://journals.openedition.org/cybergeo/33224?lang=es
+
+[^76]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11102009/
+
+[^77]: https://www.tandfonline.com/doi/full/10.1080/13557858.2014.961410
 
 ### Age disaggregation
 

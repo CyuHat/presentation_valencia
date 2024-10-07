@@ -12,6 +12,8 @@ format:
   clean-revealjs:
     transition: slide
     logo: logo.png
+  pptx: default
+  docx: default
 bibliography: valencia.bib
 nocite: |
   @*
